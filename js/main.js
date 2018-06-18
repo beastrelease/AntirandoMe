@@ -3,7 +3,7 @@ function rand(min, max) {
 }
 
 var main = function() {
-	var numbers = [666, 777, 888, 999];
+	var numbers = [586, 491, 867, 582];
 	var i = 0;
 
 	console.info('AntiRandoMe v1.0 activated!');
