@@ -3,7 +3,7 @@ function rand(min, max) {
 }
 
 var main = function() {
-	var numbers = [3];
+	var numbers = [8];
 	var i = 0;
 
 	console.info('AntiRandoMe v1.0 activated!');
